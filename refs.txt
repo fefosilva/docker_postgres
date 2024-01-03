@@ -1,1 +1,2 @@
 https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/
+https://www.code4it.dev/blog/run-postgresql-with-docker/
